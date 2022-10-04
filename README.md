@@ -13,6 +13,7 @@ Proceso:
 Salida:
   - Resumen de los datos del estudiante con su promedio
   
+  ~~~
   +---------------------------------------------------+
   |  Estudiante: EDGAR DEGANTE AGUILAR                |
   |  Grupo: 1A    Carrera: INGENIERÍA INFORMÁTICA     |
@@ -23,3 +24,4 @@ Salida:
   +---------------------------------------------------+
   |     Promedio:                           80        |
   + --------------------------------------------------+
+~~~
